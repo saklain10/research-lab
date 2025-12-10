@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* আপনি চাইলে এখানে কাস্টম CSS যোগ করতে পারেন */
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
