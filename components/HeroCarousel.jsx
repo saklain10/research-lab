@@ -413,7 +413,7 @@ import Image from 'next/image';
 const slides = [
   {
     id: 1,
-    image: "https://i.ibb.co/k2cgv4mc/solar-bess.jpg", 
+    image: "https://i.ibb.co/Q7QnjxQy/baner-ev-charging-stations-1920x916.png", 
     title: 'Advancing Renewable Energy Solutions',
     description: 'Pioneering research in solar, wind, and smart grid technologies for a sustainable future.',
     buttonText: 'Explore Research',

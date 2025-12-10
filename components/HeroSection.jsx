@@ -43,7 +43,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <div className="relative w-full h-[60vh] md:h-[70vh] overflow-hidden">
+    <div className="relative w-full h-[60vh] md:h-[89vh] overflow-hidden">
       {slides.map((slide, index) => (
         <div
           key={slide.id}
@@ -63,7 +63,7 @@ const HeroSection = () => {
           />
           
           {/* ওভারলে Opacity 30% এ সেট করা হলো এবং z-10 ব্যবহার করা হলো */}
-          <div className="absolute inset-0 bg-black bg-opacity-30 flex flex-col justify-center items-center text-center p-4 z-10"> 
+          <div className="absolute inset-0 bg-opacity-30 flex flex-col justify-center items-center text-center p-4 z-10"> 
             <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-4">
               {slide.title}
             </h2>
