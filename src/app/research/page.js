@@ -84,7 +84,7 @@ const ResearchPage = () => {
 
 
       <div className="mt-12 text-center">
-        <a href="/publications" className="bg-primary text-white font-bold py-3 px-8 rounded-full shadow-lg hover:bg-primary-dark transition duration-300">
+        <a href="/publications" className="bg-primary font-bold py-3 px-8 rounded-full shadow-lg hover:bg-primary-dark transition duration-300">
           View Our Publications
         </a>
       </div>
