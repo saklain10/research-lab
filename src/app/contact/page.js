@@ -3,7 +3,7 @@ import Container from '../../../components/Container';
 
 export const metadata = {
   title: 'Contact Us | Energy Innovation Laboratory',
-  description: 'Send a direct message or get in touch with the EE Renewable Research Lab team.',
+  description: 'Send a direct message or get in touch with the Energy Innovation Laboratory team.',
 };
 
 const ContactPage = () => {

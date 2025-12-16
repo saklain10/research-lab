@@ -67,7 +67,7 @@ const Footer = () => {
 
                 {/* Copyright */}
                 <div className="text-center pt-6 text-sm text-gray-500">
-                    &copy; {new Date().getFullYear()} EE Renewable Research Lab. All rights reserved.
+                    &copy; {new Date().getFullYear()} Energy Innovation Laboratory. All rights reserved.
                 </div>
             </Container>
         </footer>

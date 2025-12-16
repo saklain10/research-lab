@@ -2,7 +2,7 @@
 // // //   return (
 // // //     <div className="container mx-auto p-8">
 // // //       <h1 className="text-4xl font-extrabold text-gray-800 mb-4">
-// // //         Welcome to the EE Renewable Research Lab
+// // //         Welcome to the Energy Innovation Laboratory
 // // //       </h1>
 // // //       <p className="text-lg text-gray-600">
 // // //         Dedicated to advancing research in smart grids, solar optimization, and power electronics.
@@ -23,7 +23,7 @@
 // //   return (
 // //     <Container>
 // //       <h1 className="text-5xl font-extrabold text-gray-800 mb-6 border-b pb-4">
-// //         Welcome to the EE Renewable Research Lab
+// //         Welcome to the Energy Innovation Laboratory
 // //       </h1>
 // //       <p className="text-xl text-gray-600 mb-8">
 // //         Dedicated to advancing cutting-edge research in **Electrical and Renewable Energy Engineering**. Our focus areas include smart grids, solar optimization, and power electronics.
@@ -55,7 +55,7 @@
 //       <HeroCarousel/> 
 //       <Container>
 //         <h1 className="text-5xl font-extrabold text-gray-800 mb-6 border-b pb-4">
-//           Welcome to the EE Renewable Research Lab
+//           Welcome to the Energy Innovation Laboratory
 //         </h1>
 //         <p className="text-xl text-gray-600 mb-8">
 //           Dedicated to advancing cutting-edge research in **Electrical and Renewable Energy Engineering**. Our focus areas include smart grids, solar optimization, and power electronics.

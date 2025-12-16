@@ -25,7 +25,7 @@ const LandingPageContent = () => {
                 {/* 1. Welcome & Mission Section */}
                 <section className="py-16 text-center" data-aos="fade-up">
                     <h1 className="text-5xl font-extrabold text-gray-800 mb-4">
-                        Welcome to the EE Renewable Research Lab
+                        Welcome to the Energy Innovation Laboratory
                     </h1>
                     <p className="text-xl text-gray-600 max-w-4xl mx-auto mb-10">
                         Dedicated to pioneering research in **Electrical and Renewable Energy Engineering**. We are shaping the future of sustainable and smart power systems.
