@@ -2,7 +2,7 @@
 import Container from '../../../components/Container';
 
 export const metadata = {
-  title: 'Contact Us | EE Research Lab',
+  title: 'Contact Us | Energy Innovation Laboratory',
   description: 'Send a direct message or get in touch with the EE Renewable Research Lab team.',
 };
 

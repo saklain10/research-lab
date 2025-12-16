@@ -2,7 +2,7 @@
 import Container from '../../../components/Container';
 
 export const metadata = {
-  title: 'Opportunities | EE Research Lab',
+  title: 'Opportunities | Energy Innovation Laboratory',
   description: 'Find openings for PhD, MSc, Research Assistant positions, and internships.',
 };
 

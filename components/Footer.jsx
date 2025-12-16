@@ -3,7 +3,7 @@
 //     <footer className="bg-gray-900 text-white p-6 mt-12">
 //       <div className="container mx-auto text-center">
 //         <p className="text-sm">
-//           &copy; {new Date().getFullYear()} EE Research Lab. All rights reserved.
+//           &copy; {new Date().getFullYear()} Energy Innovation Laboratory. All rights reserved.
 //         </p>
 //         <p className="text-xs mt-2 text-gray-500">
 //           Powered by Next.js and Tailwind CSS
@@ -27,7 +27,7 @@ const Footer = () => {
                     
                     {/* Column 1: About */}
                     <div>
-                        <h4 className="text-xl font-bold mb-4 text-primary-light">EE Research Lab</h4>
+                        <h4 className="text-xl font-bold mb-4 text-primary-light">Energy Innovation Laboratory</h4>
                         <p className="text-sm text-gray-400">
                             Pioneering research in EV Smart Grids, Battery Degradation, and Renewable Energy Integration.
                         </p>

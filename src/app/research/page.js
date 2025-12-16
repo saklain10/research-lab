@@ -2,7 +2,7 @@
 import Container from '../../../components/Container';
 
 export const metadata = {
-  title: 'Research Activities | EE Research Lab',
+  title: 'Research Activities | Energy Innovation Laboratory',
   description: 'Explore our active research projects on EV Charging Networks, Battery Degradation, and Renewable Energy Smart Grids.',
 };
 

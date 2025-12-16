@@ -2,7 +2,7 @@
 import Container from '../../../components/Container';
 
 export const metadata = {
-  title: 'Publications | EE Research Lab',
+  title: 'Publications | Energy Innovation Laboratory',
   description: 'List of all academic publications, including journal articles, conference papers, and theses.',
 };
 

@@ -15,7 +15,7 @@
 //       <div className="container mx-auto flex justify-between items-center">
 //         {/* Lab Title/Logo */}
 //         <Link href="/" className="text-2xl font-bold text-white hover:text-green-400 transition duration-300">
-//           EE Research Lab
+//           Energy Innovation Laboratory
 //         </Link>
 
 //         {/* Navigation Links */}
@@ -86,7 +86,7 @@ const Navbar = () => {
           className="text-2xl font-bold text-white hover:text-green-400 transition duration-300"
           onClick={handleLinkClick}
         >
-          EE Research Lab
+          Energy Innovation Laboratory
         </Link>
 
         {/* 1. Desktop Navigation Links (md এবং এর থেকে বড় স্ক্রিনের জন্য) */}
