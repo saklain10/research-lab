@@ -5,7 +5,7 @@
 
 // // // // Metadata for SEO (Search Engine Optimization)
 // // // export const metadata = {
-// // //   title: 'Energy Innovation Laboratory',
+// // //   title: 'EE Renewable Research Lab',
 // // //   description: 'Research group focused on Electrical and Renewable Energy Engineering.',
 // // // };
 
@@ -38,7 +38,7 @@
 // // });
 
 // // export const metadata = {
-// //   title: 'Energy Innovation Laboratory',
+// //   title: 'EE Renewable Research Lab',
 // //   description: 'Research group focused on Electrical and Renewable Energy Engineering.',
 // // };
 
@@ -72,7 +72,7 @@
 // });
 
 // export const metadata = {
-//   title: 'EEnergy Innovation Laboratory',
+//   title: 'EEE Renewable Research Lab',
 //   description: 'Research group focused on Electrical and Renewable Energy Engineering.',
 // };
 
@@ -106,7 +106,7 @@ const nunito = Nunito({
 });
 
 export const metadata = {
-  title: 'Energy Innovation Laboratory',
+  title: 'EE Renewable Research Lab',
   description: 'Research group focused on Electrical and Renewable Energy Engineering.',
 };
 
