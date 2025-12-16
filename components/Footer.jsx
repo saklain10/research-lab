@@ -21,7 +21,7 @@ import Container from './Container'; // components/Container.jsx হিসেব
 
 const Footer = () => {
     return (
-        <footer className="bg-gray-800 text-white mt-auto pt-10 pb-6">
+        <footer className="bg-green-800 text-white mt-auto">
             <Container>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-8 border-b border-gray-700 pb-8">
                     

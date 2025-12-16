@@ -11,7 +11,7 @@
 
 // const Navbar = () => {
 //   return (
-//     <nav className="bg-gray-800 p-4">
+//     <nav className="bg-green-800 p-4">
 //       <div className="container mx-auto flex justify-between items-center">
 //         {/* Lab Title/Logo */}
 //         <Link href="/" className="text-2xl font-bold text-white hover:text-green-400 transition duration-300">
@@ -77,7 +77,7 @@ const Navbar = () => {
 
   return (
     // ✅ আপনার দেওয়া বিদ্যমান ক্লাস এবং পজিশন
-    <nav className="bg-gray-800 p-4 sticky top-0 z-50 shadow-md"> 
+    <nav className="bg-green-800 p-4 sticky top-0 z-50 shadow-md"> 
       <div className="container mx-auto flex justify-between items-center">
         
         {/* Lab Title/Logo */}

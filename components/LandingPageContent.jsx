@@ -89,7 +89,7 @@ const LandingPageContent = () => {
                             <p className="text-xl font-medium text-gray-800">Top-Tier Publications</p>
                         </div>
                         {/* Achievement Card 2: Projects */}
-                        <div className="bg-gray-800 p-8 rounded-xl shadow-2xl text-white text-center transform hover:scale-105 transition duration-300">
+                        <div className="bg-green-800 p-8 rounded-xl shadow-2xl text-white text-center transform hover:scale-105 transition duration-300">
                             <p className="text-5xl font-bold mb-2">5</p>
                             <p className="text-xl font-medium">Funded Research Projects</p>
                         </div>
